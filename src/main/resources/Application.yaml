@@ -1,0 +1,6 @@
+bot:
+  token: ODg4Nzc3Nzc0NjQxMzI4MTY5.YUXozg.d28MDEjH-cagOWVanbeefB9nqvQ
+  category: Pantheon
+  channel:
+    command: Tengu-command
+    announcement: Tengu-announcement
